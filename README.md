@@ -1,1 +1,4 @@
 # reativando
+
+
+Alterei memo idai
